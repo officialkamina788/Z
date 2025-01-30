@@ -20,7 +20,7 @@ settings_collection = db['settings0']  # A new collection to store global settin
 redeem_codes_collection = db['redeem_codes0']
 
 # Bot Configuration
-TELEGRAM_BOT_TOKEN = '7688551896:AAF-1H9kEYg3RldMteqRQZXwznoHjQu1--M'
+TELEGRAM_BOT_TOKEN = '7310628686:AAE3j-6m0KR8lwD4PbI1VjeuUyfCX9milVA'
 ADMIN_USER_ID = 5344691638  # Replace with your admin user ID
 
 cooldown_dict = {}
